@@ -5,7 +5,7 @@ This was a little project of mine over the summer that aimed to look at the rela
 ![image](https://user-images.githubusercontent.com/79608516/137437834-a97a165d-bc6b-4b34-b9b5-8893f6598ebf.png)
 
 # How it was Supposed to go
-This was my first project on Jupyter Notebook using Pandas so I wanted to find some cool and relevant data to analyze. What ended up happening was a long and winding journey searching through various dataset websites for data that showed promise. I ended up settling on Temperature and infection rates because 
+This was my first project on Jupyter Notebook using Pandas so I wanted to find some cool and relevant data to analyze. What ended up happening was a long and winding journey searching through various dataset websites for data that showed promise. I ended up settling on temperature and COVID-19 infection rates because 
 
 - **1.** The data wasn't too hard to find and it was clean and 
 - **2.** I'd heard some stuff on the news about COVID doing worse in the heat and I wanted to run the numbers. 
